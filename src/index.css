@@ -70,7 +70,7 @@ button:hover {
 
 .item {
   height: auto;
-  max-width: 750px;
+  width: 750px;
   display: grid;
   grid-template-columns: 25% 1fr;
   border-radius: 12px;
